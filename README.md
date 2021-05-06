@@ -5,6 +5,7 @@ These cheatsheets are listed in the table below:
 |Document Name             |Last Modified |Version |
 |:-------------------------|:-------------|:-------|
 |[Common Hashes Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Common-Hash-Formats-Tamar-Everson-v1.0.pdf)  |2021-03-08    |v1.0    |
+|[Shellshock Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Shellshock-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 
 ## Usage
 You are free download these files onto your pen testing build and use them in the course of training or working in the cyber security industry. You are also free to distribute these files to others who may find them useful. Please ensure you only use the techniques for legal and ethical purposes, however.
