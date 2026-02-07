@@ -17,7 +17,7 @@ These cheatsheets are listed in the table below:
 |[Python Servers Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Python-Servers-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 |[Shellshock Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Shellshock-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 |[SQL Injection Filter Evasion Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/SQL-Injection-Filter-Evasion-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
-|[SQLMAP Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/SQLMAP-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
+|[SQLMAP Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/SQLMAP-Cheatsheet-Tamar-Everson-v2.0.pdf)  |2026-02-07    |v2.0    |
 |[XXE Injection Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/XXE-Injection-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 
 ## Usage
