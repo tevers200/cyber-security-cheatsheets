@@ -12,7 +12,7 @@ These cheatsheets are listed in the table below:
 |[John the Ripper Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/John-the-Ripper-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 |[Ligolo-ng Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Ligolo-ng-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2026-02-07    |v1.0    |
 |[MS SQL Data Extraction Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/MS-SQL-Data-Extraction-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
-|[Netcat Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Netcat-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
+|[Netcat Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Netcat-Cheatsheet-Tamar-Everson-v2.0.pdf)  |2026-02-07    |v2.0    |
 |[OS Command Execution (Linux) Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/OS-Command-Execution-Linux-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 |[OS Command Execution (Windows) Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/OS-Command-Execution-Windows-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
 |[Python Servers Cheatsheet](https://github.com/tevers200/cyber-security-cheatsheets/blob/main/Python-Servers-Cheatsheet-Tamar-Everson-v1.0.pdf)  |2021-05-06    |v1.0    |
